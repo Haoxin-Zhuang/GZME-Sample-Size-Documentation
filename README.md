@@ -1,0 +1,1 @@
+Simulation report is a detailed description of the simulation process and simulation results for GZME China sample size evaluation. The remaining 2 R codes are the simulation codes for study period I and study period II (maintainance period). 
